@@ -1,4 +1,5 @@
-#summary Current limitations
+#summary Current plugin limitations
+#labels Featured
 
 = Current Limitations =
 
