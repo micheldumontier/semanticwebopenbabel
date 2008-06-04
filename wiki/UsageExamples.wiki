@@ -18,11 +18,11 @@ The general usage is:
 Here we assume that 'babel' is the name of our Open Babel executable.
 
 
-  # Read CID_1549520.sdf, write to CID_1549520.owl, use owl_conf2.xml as config: 
-  _babel -isdf CID_1549520.sdf -oowl CID_1549520.owl -q”owl_conf2.xml”_ 
+  # Read `CID_1549520.sdf`, write to `CID_1549520.owl`, use `owl_conf2.xml` as config: 
+  _babel -isdf `CID_1549520.sdf` -oowl `CID_1549520.owl` -q”`owl_conf2.xml`”_ 
   
-  # Read CID_1549520.sdf, write to CID_1549520.owl, use OwlPluginConfiguration.xml as config:
-  _babel -isdf CID_1549520.sdf -oowl CID_1549520.owl_ 
+  # Read `CID_1549520.sdf`, write to `CID_1549520.owl`, use `OwlPluginConfiguration.xml` as config:
+  _babel -isdf `CID_1549520.sdf` -oowl `CID_1549520.owl`_ 
 
-  # Read CID_1549520.sdf and output resulting owl file to console. Can be useful for scripting:
-  _babel -isdf CID_1549520.sdf -oowl_
+  # Read `CID_1549520.sdf` and output resulting owl file to console.
+  _babel -isdf `CID_1549520.sdf` -oowl_
