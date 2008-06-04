@@ -11,7 +11,7 @@ You should be able to use the OWL/RDF plugin just like any other Open Babel plug
 The general usage is:
 <ob_executable> -i<input_format> <input_file> -oowl <owl_file> -q<config_file> 
 
--q argument is optional, if it's skipped, configuration will be read from OwlPluginConfiguration.xml file, which should be located in the same directory as the Open Babel executable.
+-q argument is optional, if it's skipped, configuration will be read from `OwlPluginConfiguration.xml` file, which should be located in the same directory as the Open Babel executable.
 
 == Examples ==
 
