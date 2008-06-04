@@ -13,7 +13,7 @@ The general usage is:
 
 -q argument is optional, if it's skipped, configuration will be read from `OwlPluginConfiguration.xml` file, which should be located in the same directory as the Open Babel executable.
 
-== Examples ==
+= Examples =
 
 Here we assume that 'babel' is the name of our Open Babel executable.
 
