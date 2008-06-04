@@ -1,4 +1,4 @@
-#summary Usage examples
+#summary Plugin usage examples
 #labels Featured
 
 = Introduction =
